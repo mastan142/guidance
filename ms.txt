@@ -1,0 +1,146 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>NAVIGATING YOUR FUTURE:CAREER GUIDANCE AND STUDENT COUNSELING</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: #ffffff;
+      margin: 0;
+      padding: 0;
+    }
+    
+    header {
+      background-color:orange;
+      color: #FFFFFF;
+      padding: 20px;
+      text-align: center;
+    }
+    
+    h1 {
+      margin: 0;
+      font-size: 36px;
+    }
+    
+    nav ul {
+      list-style-type: none;
+      margin: 0;
+      padding: 0;
+      overflow: hidden;
+    }
+    
+    nav li {
+      display: inline;
+      margin-right: 10px;
+    }
+    
+    nav a {
+      color: #FFFFFF;
+      text-decoration: none;
+      padding: 5px;
+    }
+    
+    nav a:hover {
+      background-color: #FFFFFF;
+      color: #336699;
+    }
+    
+    section {
+      margin: 20px;
+    }
+    
+    footer {
+      background-color: #094b65;
+      color: #FFFFFF;
+      padding: 10px;
+      text-align: center;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>AWARENESS ON CAREER GUIDANCE FOR 10TH CLASS STUDENTS</h1>
+  </header>
+
+
+  <section>
+    <center><h2>MINI PROJECT<h2></center>
+    <u1>
+      <li>NAME:CHEEPINAPI MASTHANAIAH</li>
+      <li>R/NO :21JN1A0531</li>
+  </section>
+
+  
+  <section>
+    <h2 style=background-color:yellow> INTRODUCTION</h2>.</p>
+    <p>Choosing a career path is one of the most significant decisions we make in our lives. The journey from education to employment is often filled with uncertainties and challenges. This is where career guidance plays a crucial role. Career guidance provides individuals with the necessary tools, information, and support to make informed decisions about their professional aspirations. In this essay, we will explore the importance of career guidance and how it helps individuals navigate their way towards a successful and fulfilling career.are important for early detection and prevention of diseases.</P>
+  
+    <h2 style=background-color:grey>IMPORTANCE OF CAREER GUIDANCE</h2>
+    <p>
+        Career guidance plays a crucial role in the lives of individuals as they navigate through their education, training, and career choices. It provides valuable information, support, and direction to help individuals make informed decisions about their career paths. Here are some key reasons why career guidance is important:</p>
+  <h2 style=background-color:blue>1.Self Exploration:</h2>
+<p>Career guidance helps individuals develop self-awareness by identifying their interests, strengths, values, and skills. It encourages them to explore various career options that align with their personal attributes and aspirations. By understanding themselves better, individuals can make more informed career choices that are fulfilling and rewarding.</p>
+ <img src="img111" alt="" width=300 height=400/>
+<h2 style=background-color:blue>2.Knowledge of career options:</h2>
+<p> Career guidance provides individuals with information about a wide range of career options available to them. It helps them understand the requirements, qualifications, and prospects associated with different careers. This knowledge empowers individuals to explore various fields, industries, and occupations, enabling them to make educated decisions about their future.</p>
+<img src="img11" alt="" width=300 height=400/>
+<h2 style=background-color:blue>3.Goal setting and planning:</h2>
+<p>Career guidance assists individuals in setting realistic and achievable career goals. It helps them create a plan of action by identifying the necessary steps, educational pathways, and skill development required to reach their desired career objectives. Career guidance provides guidance on creating effective resumes, preparing for interviews, and developing networking skills, which are essential for career success.</p>
+<h2 style=background-color:blue>4.Overcoming obstacles and challenges: </h2>
+<p>Career guidance provides support and guidance in overcoming obstacles and challenges that individuals may encounter during their career journey. It helps individuals navigate career transitions, such as job loss, career change, or reentering the workforce. It equips them with strategies to handle setbacks, develop resilience, and adapt to changing circumstances.</p>
+<h2 style=background-color:blue>5.Maximizing potential and satisfaction: </h2>
+<p>Career guidance helps individuals make choices that maximize their potential and job satisfaction. By aligning their skills, interests, and values with their chosen career paths, individuals are more likely to find meaning and fulfillment in their work. This can lead to increased productivity, motivation, and overall well-being in both personal and professional life.</p>
+</section>
+
+
+  <section>
+    <center><h2 style=background-color:pink>My Activity</h2></center>
+    <center>
+    <img src="week-1.jpg" alt="CSP PHOTO1" width=300 height=400/>
+    <img src="week-2.jpg" alt="CSP PHOTO2" width=300 height=400/>
+    <img src="week-3.jpg" alt="CSP PHOTO3" width=300 height=400/>
+    <img src="week-4.jpg" alt="CSP PHOTO4" width=300 height=400/>
+    <img src="week-5.jpg" alt="CSP PHOTO5" width=300 height=400/>
+    </center>
+  </section>
+   <h2 style=background-color:white>Community Awareness Campaign:</h2>.</p>
+   <p>Conduct community meetings and gatherings to discuss the significance of health and hygiene practices. Utilize visual aids, presentations, and interactive sessions to effectively convey information. Address common misconceptions and myths related to health and hygiene. Share success stories and case studies to inspire behavior change.</p>
+   <h2 style=background-color:white>Personal Hygiene Workshops:</h2>.</p>
+   <p>Organize workshops focusing on personal hygiene practices such as handwashing, oral hygiene, and bathing. Demonstrate proper techniques and provide guidance on the use of soaps, toothbrushes, and other hygiene products.</p>
+   <h2> Sanitation and Waste Management:</h2>.</p>
+   <p>Promote the construction and proper use of toilets in households to improve sanitation. Educate community members about the importance of proper waste disposal and recycling. Organize clean-up drives to remove litter and debris from public spaces. Collaborate with local authorities to implement sustainable waste management systems.</P>
+   <h2> Nutrition and Healthy Eating:</h2>.</p>
+   <p>Conduct workshops on balanced nutrition, focusing on the importance of a diverse diet and the consumption of locally available foods. Establish community vegetable gardens to encourage the cultivation and consumption of fresh, organic produce. Facilitate cooking demonstrations that showcase nutritious recipes using locally sourced ingredients</p>
+   <h2> Preventive Healthcare Camps:</h2>.</p>
+   <p>Organize regular health camps in collaboration with medical professionals and volunteers. Conduct health screenings, including blood pressure checks, body mass index assessments, and basic medical examinations. Offer information on preventive measures and early detection of common diseases. Distribute educational materials and resources on health-related topics.</p>
+   <h2> Conclusion:</h2>.</p>
+   <p>By implementing this comprehensive approach to health and hygiene promotion in our village community, we aim to create a lasting impact on the well-being of individuals. Through education, awareness, and community engagement, we can empower villagers to make informed choices that prioritize their health and create a clean, hygienic environment. By working together, we can build a healthier, more resilient community for generations to come.</p>
+<section>
+    <u1>
+  <title>Contact Form</title>
+<h2>Contact Us</h2>
+  <form action="submit_form.php" method="POST">
+    <label for="name">Name:</label>
+    <input type="text" id="name" name="name" required><br><br>
+    
+    <label for="email">Email:</label>
+    <input type="email" id="email" name="email" required><br><br>
+    
+    <label for="message">Message:</label><br>
+    <textarea id="message" name="message" rows="4" cols="30" required></textarea><br><br>
+    
+    <input type="submit" value="Submit">
+  </form>
+  </div>
+    </u1>
+  </section>
+
+  
+  
+  <footer>
+     ----CLEANLINESS IS THE FRIST LAW OF HEALTH----
+             ### HYGIENE IS TWO THRIDS OF HEALTH ###
+   __Niranjan Reddy_21JN1A0505_
+  </footer>
+</body>
+    </html>
